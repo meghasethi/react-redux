@@ -6,4 +6,4 @@ import App from './config/App';
 import './utilities/prototypes.js';
 require('dotenv').config();
 /*************** Render App ********/
-ReactDOM.render(<App />, document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('root'));

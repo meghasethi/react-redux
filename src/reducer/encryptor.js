@@ -1,7 +1,7 @@
 import createEncryptor from 'redux-persist-transform-encrypt';
 
 const encryptor = createEncryptor({
-  secretKey: 'jasdeep-singh'
+  secretKey: 'megha-sethi'
 });
 
 export default encryptor;

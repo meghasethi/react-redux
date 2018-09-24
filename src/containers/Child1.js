@@ -1,10 +1,9 @@
 import React from 'react';
 
 export default props => {
-  console.log('props', props);
-  const A = () => {
-    console.log('A');
-  };
+  // const A = () => {
+  //   console.log('A');
+  // };
 
   return (
     <div className="main-content">
